@@ -1,0 +1,8 @@
+# Ideas for future data viz based on what I didn't see people doing in Tableau (public, anyway)
+
+# (1) Nutrient content of different foods, filterable by dietary restrictions (i.e. top 10 sources of vitamins, minerals, macros, antioxidants)
+# (2) Most common ingredients in recipes, filterable by ethnicity and dietary restrictions
+#     (i.e. all of Allrecipes.com, 2010-2020, scraped for descriptors. Filter out the most common [things like water, flour, butter/oil], 
+#     or include them with the goal of determining basic shopping lists for cooking different kinds of food. Use tags to help!)
+# (3) Food supply chain? Measure/map where food comes from, how it's processed. Think the coffee/supply chain map from NOLA children's museum, but 
+#     more thorough.
